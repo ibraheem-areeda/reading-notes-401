@@ -6,6 +6,6 @@ This website is a *live deployed version* of a repo on github, you can see there
 | Course | link |
 | ----------- | ----------- |
 | prep-course | [link](https://github.com/ibraheem-areeda/my-notes/blob/main/README.md) |
-| advanced python course | [link](https://github.com/ibraheem-areeda/reading-notes-401/python advanced corse.md) |
+| advanced python course | [link](https://github.com/ibraheem-areeda/reading-notes-401/python-advanced-corse.md) |
 
 
