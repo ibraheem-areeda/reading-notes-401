@@ -12,7 +12,7 @@ This course consists of 5 modules:
 - Module 3 : Backend Development
 - Module 4 : Frontend Development
 
-Click [here](https://github.com/ibraheem-areeda/my-notes/blob/main/README.md) to see the notes from the prep cours
+Click [here](https://ibraheem-areeda.github.io/my-notes/) to see the notes from the prep cours
 
 ## advanced python course 
 In this course we will learn to write clean, well-tested, advanced Python code using industry-standard software engineering patterns. we will study the foundational structures of programming, from object-oriented principles to advanced topics such as Django, Docker, and Data Science
