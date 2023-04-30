@@ -28,7 +28,7 @@ this course consists of 10 modules.
 | Introduction to SQL | link |
 | Practice in the Terminal | link |
 | Professional Etiquette | link |
-| The Growth Mindset | link |
+| The Growth Mindset | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Growth%20mindset.md)  |
 
 
 
