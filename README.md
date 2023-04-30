@@ -18,6 +18,17 @@ Click [here](https://ibraheem-areeda.github.io/my-notes/) to see the notes from 
 In this course we will learn to write clean, well-tested, advanced Python code using industry-standard software engineering patterns. we will study the foundational structures of programming, from object-oriented principles to advanced topics such as Django, Docker, and Data Science
 this course consists of 10 modules.
 
-Click [here](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/python%20advanced%20corse.md) to see the notes from advanced python course
+## Table of notes 
+
+| Topic | link |
+| ----------- | ----------- |
+| Data Structures and Algorithms | link |
+| Get Started with Python | link |
+| Career Coaching Status Report | link |
+| Introduction to SQL | link |
+| Practice in the Terminal | link |
+| Professional Etiquette | link |
+| The Growth Mindset | link |
+
 
 
