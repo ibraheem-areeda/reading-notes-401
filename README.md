@@ -24,10 +24,8 @@ this course consists of 10 modules.
 | ----------- | ----------- |
 | Data Structures and Algorithms | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Data%20Structures%20and%20Algorithms.md) |
 | Engineering Readings | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Engineering%20Readings.md) |
-| Career Coaching Status Report | link |
 | Introduction to SQL |  [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Introduction%20to%20SQL.md)  |
-| Practice in the Terminal | link |
-| Professional Etiquette | link |
+| Practice in the Terminal | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Practice%20in%20the%20Terminal.md) |
 | The Growth Mindset | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Growth%20mindset.md)  |
 
 
