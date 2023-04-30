@@ -22,7 +22,7 @@ this course consists of 10 modules.
 
 | Topic | link |
 | ----------- | ----------- |
-| Data Structures and Algorithms | link |
+| Data Structures and Algorithms | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Data%20Structures%20and%20Algorithms.md) |
 | Get Started with Python | link |
 | Career Coaching Status Report | link |
 | Introduction to SQL | link |
