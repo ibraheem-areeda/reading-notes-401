@@ -25,3 +25,5 @@ The Linux command line has a lot of power and opportunities, but it can be hard 
  - Removing a directory using the "rmdir" command
  - Creating a blank file using the "touch" command
  - Copying a file or directory using the "cp" command
+
+### Refrance [this](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) cheat cheet 
