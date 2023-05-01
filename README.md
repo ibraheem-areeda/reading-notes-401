@@ -16,7 +16,7 @@ Click [here](https://ibraheem-areeda.github.io/my-notes/) to see the notes from 
 
 ## Code 102 - Intro to Software Development.
 ## Code 201 - Foundations of Software Development.
-##  Code 301 - Intermediate Software Development Code.
+##  Code 301 - Intermediate Software Development.
 
 ## advanced python course - 401
 In this course we will learn to write clean, well-tested, advanced Python code using industry-standard software engineering patterns. we will study the foundational structures of programming, from object-oriented principles to advanced topics such as Django, Docker, and Data Science
