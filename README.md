@@ -19,10 +19,6 @@ Click [here](https://ibraheem-areeda.github.io/my-notes/) to see the notes from 
 ##  Code 301 - Intermediate Software Development.
 
 ## advanced python course - 401
-In this course we will learn to write clean, well-tested, advanced Python code using industry-standard software engineering patterns. we will study the foundational structures of programming, from object-oriented principles to advanced topics such as Django, Docker, and Data Science
-this course consists of 10 modules.
-
-### Table of Contents 
 
 | Topic | link |
 | ----------- | ----------- |
@@ -32,6 +28,13 @@ this course consists of 10 modules.
 | Practice in the Terminal | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Practice%20in%20the%20Terminal.md) |
 | The Growth Mindset | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Growth%20mindset.md)  |
 | Read: Class 01 | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Read:%20Class%2001.md)  |
+
+
+In this course we will learn to write clean, well-tested, advanced Python code using industry-standard software engineering patterns. we will study the foundational structures of programming, from object-oriented principles to advanced topics such as Django, Docker, and Data Science
+this course consists of 10 modules.
+
+
+
 
 
 
