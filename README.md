@@ -22,7 +22,7 @@ Click [here](https://ibraheem-areeda.github.io/my-notes/) to see the notes from 
 
 | Topic | link |
 | ----------- | ----------- |
-| Data Structures and Algorithms | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Data%20Structures%20and%20Algorithms.md) |
+| Data Structures and Algorithms | [Link](reading-notes-401/Data Structures and Algorithms.md ) |
 | Engineering Readings | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Engineering%20Readings.md) |
 | Introduction to SQL |  [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Introduction%20to%20SQL.md)  |
 | Practice in the Terminal | [Link](https://github.com/ibraheem-areeda/reading-notes-401/blob/main/Practice%20in%20the%20Terminal.md) |
