@@ -10,4 +10,16 @@ The 'read()' method is typically used when the entire contents of a file need to
 
 ### Briefly describe the concept of exception handling in Python. How can the ‘try’, ‘except’, and ‘finally’ blocks be used to handle exceptions and ensure proper execution of code? Provide a simple example.
 
-Exception handling is a mechanism in Python that allows for the detection, reporting, and recovery from errors that may occur during program execution. The 'try', 'except', and 'finally' blocks are used to handle exceptions and ensure proper execution of code. The 'try' block contains the code that may raise an exception, while the 'except' block catches and handles the exception if it occurs. The 'finally' block is optional and is used for cleanup operations that should be performed regardless of whether an exception was raised or not. An example of exception handling using these blocks is provided in the code snippet above.
+Exception handling is a mechanism in Python that allows for the detection, reporting, and recovery from errors that may occur during program execution. The 'try', 'except', and 'finally' blocks are used to handle exceptions and ensure proper execution of code. The 'try' block contains the code that may raise an exception, while the 'except' block catches and handles the exception if it occurs. The 'finally' block is optional and is used for cleanup operations that should be performed regardless of whether an exception was raised or not. An example of exception handling using these blocks :
+```
+try:
+    x = int(input("Enter a number: "))
+    y = 25 / x
+    print("The result is:", y)
+except ValueError:
+    print("Invalid input. Please enter a number.")
+except ZeroDivisionError:
+    print("Cannot divide by zero.")
+finally:
+    print("Program complete.")
+```
