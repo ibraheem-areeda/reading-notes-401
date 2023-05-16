@@ -28,8 +28,6 @@ import random
 dice_roll = random.randint(1, 6)
 To calculate the probability of rolling a specific number, such as 6, over a large number of trials, you can perform multiple iterations and count the number of successful outcomes:
 
-python
-Copy code
 import random
 
 num_trials = 1000000
