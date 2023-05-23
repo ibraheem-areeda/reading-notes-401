@@ -17,7 +17,7 @@ To avoid such ethical issues, it is important to follow ethical guidelines and b
 - Obtain necessary permissions: If developers plan to use someone else's work, they should obtain proper permissions or licenses as required. This could involve seeking explicit consent from the original creator or adhering to open-source licensing terms.
 
 - Give credit where it is due: When utilizing code snippets, algorithms, or any other form of work created by others, developers should appropriately acknowledge and attribute the original creators. This helps maintain transparency and recognizes the contributions of others.
-- 
+
 ### Describe the Python statistics module and give an example of a function within the module that can be used to perform a common statistical operation.
 The Python `statistics` module is a built-in module that provides functions for statistical calculations. It offers a range of statistical operations, including measures of central tendency, measures of dispersion, correlation, probability distributions, and more. It is particularly useful for analyzing and summarizing data.
 
