@@ -1,4 +1,4 @@
-# What are the key differences between scraping static and dynamic websites?
+### What are the key differences between scraping static and dynamic websites?
 
 Scraping static websites involves retrieving the pre-rendered HTML source code and parsing it to extract the desired information. The content on static websites is fixed and doesn't change unless manually updated. Tools like BeautifulSoup or Scrapy in Python are commonly used to parse the HTML and extract the required data. Since static websites don't rely on dynamic content generation or user interactions, the scraping process is relatively straightforward.
 
