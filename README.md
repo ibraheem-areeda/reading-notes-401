@@ -49,6 +49,7 @@ Click [here](https://ibraheem-areeda.github.io/my-notes/) to see the notes from 
 | Read: Class 20| [Link](Read-Class-20.md)  |
 | Read: Class 21| [Link](Read-Class-21.md)  |
 | Read: Class 22| [Link](Read-Class-22.md)  |
+| Read: Class 23| [Link](Read-Class-23.md)  |
 
 In this course we will learn to write clean, well-tested, advanced Python code using industry-standard software engineering patterns. we will study the foundational structures of programming, from object-oriented principles to advanced topics such as Django, Docker, and Data Science
 this course consists of 10 modules.
