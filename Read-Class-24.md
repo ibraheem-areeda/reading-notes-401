@@ -13,6 +13,6 @@ SELECT * FROM employees;
 Using the asterisk (*) as a wildcard symbol instructs the database engine to fetch all columns available in the 'employees' table. This simple query is particularly useful when you want to retrieve the entire dataset without explicitly listing each individual column. However, it is essential to use this wildcard with caution, as fetching unnecessary columns or large datasets may lead to reduced query performance. In most cases, it is best practice to specify only the required columns explicitly to optimize the query and minimize unnecessary data retrieval.
 
 
-Can you explain the role of DRF Generic Views and provide examples of their usage in building a RESTful API?
+### Can you explain the role of DRF Generic Views and provide examples of their usage in building a RESTful API?
 
 DRF Generic Views simplify building RESTful APIs by providing pre-built views for common CRUD operations. For example, using `generics.ListCreateAPIView` for a 'Book' model enables endpoints for listing all books and creating new instances. Similarly, `generics.RetrieveUpdateDestroyAPIView` allows retrieving, updating, and deleting individual book objects. This abstraction reduces boilerplate code, streamlines API development, and enhances code organization and reusability.
